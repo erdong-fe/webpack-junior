@@ -1,2 +1,2 @@
 # webpack-junior
-webpack junior tutorial
+webpack初级教程，教你一步一步配置webpack教程，含视频
